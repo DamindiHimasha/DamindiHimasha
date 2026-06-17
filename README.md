@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Damindi Himasha</h1>
 
 <h3 align="center">
-Information Technology Undergraduate | Exploring Business Analysis, Quality Assurance, IT Support & Project Management
+Information Technology Undergraduate | Exploring Business Analysis,Project Management & Quality Assurance
 </h3>
 
 <p align="center">

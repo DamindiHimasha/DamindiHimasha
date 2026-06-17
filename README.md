@@ -1,83 +1,215 @@
-# Hi, I'm Damindi Himasha 👋
+<h1 align="center">Hi 👋, I'm Damindi Himasha</h1>
 
-Information Technology Undergraduate at SLIIT | Higher Diploma in Information Technology (HDIT) – University of Colombo School of Computing
+<h3 align="center">
+Information Technology Undergraduate | Exploring Business Analysis, Quality Assurance, IT Support & Project Management
+</h3>
 
-I am an enthusiastic IT undergraduate with a strong interest in Business Analysis, Quality Assurance, IT Support, and Project Management. I enjoy learning new technologies, working on collaborative projects, and exploring how technology can be used to solve real-world problems.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=DamindiHimasha&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+</p>
 
-## Areas of Interest
+<p align="center">
+  <a href="https://github.com/DamindiHimasha">
+    <img src="https://img.shields.io/github/followers/DamindiHimasha?label=Followers&style=social" />
+  </a>
+</p>
 
-* Business Analysis
-* Quality Assurance (QA)
-* IT Support
-* Project Management
-* Systems Analysis
-* Information Systems
+---
 
-## Technical Skills
+# 👩‍💻 About Me
 
-**Programming Languages**
+🎓 BSc (Hons) in Information Technology - SLIIT
 
-Java • Python • JavaScript • SQL • C • C++
+🎓 Higher Diploma in Information Technology (HDIT) - University of Colombo School of Computing
 
-**Databases**
+🌱 Currently exploring Business Analysis, Quality Assurance, IT Support, and Project Management
 
-MySQL • MongoDB
+💡 Passionate about learning new technologies, solving problems, and contributing to innovative solutions
 
-**Web Technologies**
+🤝 Strong interest in teamwork, communication, and continuous professional growth
 
-HTML • CSS
+📫 Reach me at: **[damindihimasha23@gmail.com](mailto:damindihimasha23@gmail.com)**
 
-**Tools & Platforms**
+---
 
-GitHub • Postman • Figma • VS Code
+# 🚀 Areas of Interest
 
-**Operating Systems**
+📊 Business Analysis
 
-Windows • Linux
+🧪 Quality Assurance (QA)
 
-## Academic Projects
+💻 IT Support
 
-### CampusOps Hub
+📋 Project Management
 
-Smart campus operations management system designed to improve communication, scheduling, and resource management within educational institutions.
+🔍 Systems Analysis
 
-### StudySync
+🗄️ Information Systems
 
-Academic collaboration platform developed to support project coordination and student engagement.
+---
 
-### AgroLeave
+# 🛠️ Technical Skills
 
-Greenhouse management system integrating cultivation, inventory, finance, transport, and sales management functionalities.
+## Programming Languages
 
-### Care Assist Online
+<p align="left">
+<img src="https://skillicons.dev/icons?i=java,python,javascript,c,cpp" />
+</p>
 
-Healthcare platform developed to streamline healthcare service management and patient interactions.
+## Web Technologies
 
-### Online Apartment Sales System
+<p align="left">
+<img src="https://skillicons.dev/icons?i=html,css" />
+</p>
 
-Web-based platform enabling users to browse, compare, and manage apartment listings efficiently.
+## Frameworks & Technologies
 
-## Certifications
+<p align="left">
+<img src="https://skillicons.dev/icons?i=react,nodejs,spring" />
+</p>
 
-* AWS Cloud Practitioner Essentials
-* MongoDB Data Modeling Certification
-* Introduction to C – Sololearn
-* Introduction to C++ – Sololearn
-* Introduction to JavaScript – Sololearn
-* Java Intermediate – Sololearn
-* SQL Intermediate – Sololearn
+## Databases
 
-## Currently Learning
+<p align="left">
+<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+</p>
 
-* Business Analysis Fundamentals
-* Agile & Scrum Concepts
-* IT Support Fundamentals
-* Systems Analysis & Design
+## Tools & Platforms
 
-## Connect With Me
+<p align="left">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman" />
+</p>
 
-LinkedIn: [www.linkedin.com/in/damihimasha1998](http://www.linkedin.com/in/damihimasha1998)
+## Operating Systems
 
-GitHub: github.com/DamindiHimasha
+<p align="left">
+<img src="https://skillicons.dev/icons?i=windows,linux" />
+</p>
 
-Email: [damindihimasha23@gmail.com](mailto:damindihimasha23@gmail.com)
+---
+
+# 🤝 Professional Skills
+
+✔ Communication Skills
+
+✔ Team Collaboration
+
+✔ Problem Solving
+
+✔ Analytical Thinking
+
+✔ Time Management
+
+✔ Leadership
+
+✔ Adaptability
+
+✔ Organizational Skills
+
+✔ Attention to Detail
+
+---
+
+# 📚 Academic Projects
+
+## 🚀 CampusOps Hub – Smart Campus Operations Management System
+
+* Assisted in testing and validating system functionalities.
+* Supported troubleshooting and issue identification activities.
+* Contributed to project documentation and team collaboration.
+
+## 🚀 StudySync Academic Collaboration System
+
+* Assisted in testing and validating project management functionalities.
+* Supported issue identification and documentation activities.
+* Collaborated with team members to improve system usability.
+
+## 🚀 AgroLeave Greenhouse Management System
+
+* Assisted in testing and validating greenhouse management workflows.
+* Supported documentation and system verification activities.
+* Collaborated with team members throughout development.
+
+## 🚀 Care Assist Online Healthcare System
+
+* Assisted in testing healthcare service workflows and functionalities.
+* Supported troubleshooting and validation activities.
+* Contributed to documentation and usability improvements.
+
+## 🚀 Online Apartment Sales System
+
+* Assisted in testing property listing and management functionalities.
+* Supported issue identification and system validation activities.
+* Collaborated with team members to improve user experience.
+
+---
+
+# 🏆 Certifications
+
+☁️ AWS Cloud Practitioner Essentials
+
+🗄️ MongoDB Data Modeling Certification
+
+💻 Sololearn Certifications
+
+* Introduction to C
+* Introduction to C++
+* Introduction to JavaScript
+* Java Intermediate
+* SQL Intermediate
+
+---
+
+# 🌱 Currently Learning
+
+📖 Business Analysis Fundamentals
+
+📖 Agile & Scrum Concepts
+
+📖 IT Support Fundamentals
+
+📖 Systems Analysis & Design
+
+---
+
+# 📊 GitHub Statistics
+
+<p align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=DamindiHimasha&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DamindiHimasha&layout=compact&theme=tokyonight" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=DamindiHimasha&theme=tokyonight" />
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="left">
+<a href="https://www.linkedin.com/in/damihimasha1998" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin" width="50" />
+</a>
+
+<a href="mailto:damindihimasha23@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" width="50" />
+</a>
+
+<a href="https://github.com/DamindiHimasha" target="_blank">
+<img src="https://skillicons.dev/icons?i=github" width="50" />
+</a>
+</p>
+
+---
+
+# 💬 Quote
+
+> "Success is the result of continuous learning, persistence, and the courage to take on new challenges."
+
+---
+
+⭐ Thank you for visiting my profile! Feel free to connect and collaborate.

@@ -1,35 +1,66 @@
 # 👋 Hi, I'm Damindi Himasha
 
-🎓 Information Technology Undergraduate at SLIIT  
-🎓 Higher Diploma in Information Technology (HDIT) – UCSC
+🎓 Information Technology Undergraduate at SLIIT
+🎓 Higher Diploma in Information Technology (HDIT) – University of Colombo School of Computing
 
-## 🌱 About Me
+## 🌟 About Me
 
-- Aspiring Business Analyst
-- Interested in Systems Analysis & Process Improvement
-- Passionate about solving business problems through technology
-- Strong interest in Project Management and Information Systems
+I am an enthusiastic Information Technology undergraduate with a strong interest in Business Analysis, Quality Assurance, IT Support, and Project Management.
+
+I enjoy learning new technologies, working on collaborative projects, analyzing problems, and exploring technology-driven solutions. I am currently seeking internship opportunities to gain industry experience and further develop my technical and professional skills.
+
+## 💡 Areas of Interest
+
+- Business Analysis
+- Quality Assurance (QA)
+- IT Support
+- Project Management
+- Systems Analysis
+- Information Systems
 
 ## 🛠 Technical Skills
 
+### Programming Languages
 - Java
 - Python
 - JavaScript
 - SQL
+- C
+- C++
+
+### Databases
 - MySQL
 - MongoDB
-- HTML & CSS
+
+### Tools & Platforms
 - GitHub
+- Postman
 - Figma
+- VS Code
 
-## 📚 Currently Learning
+### Operating Systems
+- Windows
+- Linux
 
-- Business Analysis Fundamentals
-- Agile & Scrum Concepts
-- Requirements Gathering Techniques
-- Systems Analysis & Design
+## 📚 Academic Projects
+
+- CampusOps Hub – Smart Campus Operations Management System
+- StudySync Academic Collaboration System
+- AgroLeave Greenhouse Management System
+- Care Assist Online Healthcare System
+- Online Apartment Sales System
+
+## 🤝 Professional Skills
+
+- Communication Skills
+- Team Collaboration
+- Problem Solving
+- Analytical Thinking
+- Time Management
+- Leadership
+- Adaptability
 
 ## 📫 Connect With Me
 
-- LinkedIn: https://www.linkedin.com/in/damihimasha1998/
+- LinkedIn: www.linkedin.com/in/damindihimasha1998
 - Email: damindihimasha23@gmail.com

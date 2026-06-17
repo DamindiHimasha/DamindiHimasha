@@ -1,16 +1,35 @@
-## Hi there 👋
+# 👋 Hi, I'm Damindi Himasha
 
-<!--
-**DamindiHimasha/DamindiHimasha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Information Technology Undergraduate at SLIIT  
+🎓 Higher Diploma in Information Technology (HDIT) – UCSC
 
-Here are some ideas to get you started:
+## 🌱 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Aspiring Business Analyst
+- Interested in Systems Analysis & Process Improvement
+- Passionate about solving business problems through technology
+- Strong interest in Project Management and Information Systems
+
+## 🛠 Technical Skills
+
+- Java
+- Python
+- JavaScript
+- SQL
+- MySQL
+- MongoDB
+- HTML & CSS
+- GitHub
+- Figma
+
+## 📚 Currently Learning
+
+- Business Analysis Fundamentals
+- Agile & Scrum Concepts
+- Requirements Gathering Techniques
+- Systems Analysis & Design
+
+## 📫 Connect With Me
+
+- LinkedIn: https://www.linkedin.com/in/damihimasha1998/
+- Email: damindihimasha23@gmail.com
